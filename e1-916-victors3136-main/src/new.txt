@@ -1,0 +1,10 @@
+48;What is the smallest number?;614;24;212;24;easy
+97;What is the smallest number?;324;876;885;324;easy
+20;What is the smallest number?;76;569;525;76;easy
+13;What is the biggest number?;787;233;243;787;easy
+41;What is the smallest number?;340;726;110;110;easy
+9;What is the biggest number?;424;745;822;822;easy
+100;new;a;b;c;a;easy
+55;What is the smallest number?;331;966;405;331;easy
+17;What is the biggest number?;414;702;561;702;easy
+5;What is the smallest number?;822;575;270;270;easy
